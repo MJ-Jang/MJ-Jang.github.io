@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Home"
+  #   url: /
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog (Korean)"
+  #   url: /blog/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
+
+  - title: "YouTube"
+    url: https://youtube.com/playlist?list=PLBgWuBRi7IQB0qhHiVdePB0__lGmDj264

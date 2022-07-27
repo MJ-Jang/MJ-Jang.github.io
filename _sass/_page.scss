@@ -55,8 +55,17 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
-    font-size: 1em;
+  p, li, dl, span {
+    font-size: 0.95em;
+    // font-size: 15px;
+    // margin-bottom: 15px;
+    // font-family: "Lato", sans-serif;
+    // font-weight: 400;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    // font-family: sans-serif;
+    // color: #222;
+    line-height: 1.4em;
   }
 
   /* paragraph indents */
@@ -73,7 +82,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: underline solid 1px;
 
     &:hover {
       text-decoration: underline;
