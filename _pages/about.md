@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 
-Hi, I'm Takyoung Kim. Recently I received my master's degree at Korea University, advised by [Pilsung Kang](http://dsba.korea.ac.kr/professor/){:target="_blank"}.
+Hi, I'm Takyoung Kim. Recently I received my Master's degree at Korea University, advised by [Pilsung Kang](http://dsba.korea.ac.kr/professor/){:target="_blank"}.
 
-My main research interest is focused on *real-world* natural language processing, especially relaxing unrealistic assumptions of benchmark dataset such as a reflection of social scientific phenomena. I'm also interested in multi-turn reasoning (e.g., dialogue system or question answering) and finding better sentence embeddings on domain-agnostic/specific situations. 
+My main research interest is focused on *real-world* natural language processing (NLP), especially relaxing unrealistic assumptions of benchmark dataset such as a reflection of social scientific phenomena. I'm also interested in multi-turn reasoning (e.g., dialogue system or question answering), knowledge-intensive NLP, and finding better sentence embeddings on domain-agnostic/specific situations. 
 
 In my free time, I enjoy swimming🏊‍♂️, soccer⚽️, weight training🏋️, and many other activities.
 
-<span style="font-style:Raleway; font-weight:700; font-size:large">News</span>
+### News
+<!-- <span style="font-style:Raleway; font-weight:700; font-size:large">News</span> -->
 
 <div style="margin-bottom: 1.25em; border: 0.7px solid #ccc; max-height: 12em; min-width: 15em; overflow: auto; list-style-position: outside; padding-left: 0em; padding-right: 0.6em">
 <ul>
@@ -36,14 +37,16 @@ In my free time, I enjoy swimming🏊‍♂️, soccer⚽️, weight training�
 </div> 
 
 <!-- Work experience -->
-<span style="font-style:Raleway; font-weight:700; font-size:large">Work Experience</span>
+## Work Experience
+<!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Work Experience</span> -->
 
 <span style="font-weight:600">NAVER AI Lab <span style="float:right">July 2022 - Present</span></span> <br>
 Research Intern @ Language Research Team (Mentor: [Sungdong Kim](https://scholar.google.com/citations?user=xKrSnDoAAAAJ&hl=ko){:target="_blank"}) <br>
 
 
 <!-- Education -->
-<span style="font-style:Raleway; font-weight:700; font-size:large">Education</span>
+## Education
+<!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Education</span> -->
 
 <span style="font-weight:600">Korea University <span style="float:right">Sept. 2020 - Aug. 2022</span></span> <br>
 M.S. in Industrial & Management Engineering <br>
