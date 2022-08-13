@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-Hi, I'm Takyoung Kim. Recently I received my Master's degree at Korea University, advised by [Pilsung Kang](http://dsba.korea.ac.kr/professor/){:target="_blank"}.
+Hi, I'm Takyoung Kim. Currently I am working at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" target="_blank">NAVER AI Lab</a> as a research intern. I received my Master's degree at Korea University, advised by [Pilsung Kang](http://dsba.korea.ac.kr/professor/){:target="_blank"}.
 
-My main research interest is focused on *real-world* natural language processing (NLP), especially relaxing unrealistic assumptions of benchmark dataset such as a reflection of social scientific phenomena. I'm also interested in multi-turn reasoning (e.g., dialogue system or question answering), knowledge-intensive NLP, and finding better sentence embeddings on domain-agnostic/specific situations. 
+My main research interest is focused on solving communicative problems in the *real-world*, including pointing out unrealistic assumptions in benchmark dataset and its evaluation. I'm also interested in multi-turn reasoning (e.g., dialogue system or question answering), knowledge-intensive NLP, and finding better sentence embeddings on domain-agnostic/specific situations. 
 
 In my free time, I enjoy swimming🏊‍♂️, soccer⚽️, weight training🏋️, and many other activities.
 
