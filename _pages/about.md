@@ -40,7 +40,7 @@ In my free time, I enjoy swimming🏊‍♂️, soccer⚽️, weight training�
 ## Work Experience
 <!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Work Experience</span> -->
 
-**NAVER AI Lab** <span style="float:right">July 2022 - Present</span> <br>
+**NAVER AI Lab**, Seongnam, Korea <span style="float:right">July 2022 - Present</span> <br>
 Research Intern @ Language Research Team (Mentor: [Sungdong Kim](https://scholar.google.com/citations?user=xKrSnDoAAAAJ&hl=ko){:target="_blank"}) <br>
 
 
