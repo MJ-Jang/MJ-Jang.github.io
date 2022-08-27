@@ -40,7 +40,7 @@ In my free time, I enjoy swimming🏊‍♂️, soccer⚽️, weight training�
 ## Work Experience
 <!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Work Experience</span> -->
 
-<span style="font-weight:600">NAVER AI Lab <span style="float:right">July 2022 - Present</span></span> <br>
+**NAVER AI Lab** <span style="float:right">July 2022 - Present</span> <br>
 Research Intern @ Language Research Team (Mentor: [Sungdong Kim](https://scholar.google.com/citations?user=xKrSnDoAAAAJ&hl=ko){:target="_blank"}) <br>
 
 
@@ -48,10 +48,10 @@ Research Intern @ Language Research Team (Mentor: [Sungdong Kim](https://scholar
 ## Education
 <!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Education</span> -->
 
-<span style="font-weight:600">Korea University <span style="float:right">Sept. 2020 - Aug. 2022</span></span> <br>
+**Korea University**, Seoul, Korea <span style="float:right">Sept. 2020 - Aug. 2022</span> <br>
 M.S. in Industrial & Management Engineering <br>
 
-<span style="font-weight:600">Sungkyunkwan University <span style="float:right">Mar. 2013 - Aug. 2020</span></span> <br>
+**Sungkyunkwan University**, Seoul, Korea <span style="float:right">Mar. 2013 - Aug. 2020</span> <br>
 B.S. in Engineering, Interdisciplinary Program of Convergent Software <br>
 B.M.C. in Media & Communication
 
