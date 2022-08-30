@@ -11,7 +11,7 @@ redirect_from:
 
 Hi, I'm Takyoung Kim. Currently I am working at <a href="https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab" target="_blank">NAVER AI Lab</a> as a research intern. I received my Master's degree at Korea University, advised by [Pilsung Kang](http://dsba.korea.ac.kr/professor/){:target="_blank"}.
 
-My main research interest is focused on solving communicative problems in the *real-world*, including pointing out unrealistic assumptions in benchmark dataset and its evaluation. I'm also interested in multi-turn reasoning (e.g., dialogue system or question answering), knowledge-intensive NLP, and finding better sentence embeddings on domain-agnostic/specific situations. 
+My main research interest is focused on solving communicative problems in the *real-world*, including pointing out unrealistic assumptions in benchmark dataset and its evaluation. I'm also interested in multi-turn reasoning (e.g., dialogue system or question answering), knowledge-intensive NLP, and finding better sentence embeddings on domain-agnostic/specific situations. You can find my CV <a href="https://youngerous.github.io/assets/cv/CV_Takyoung_Kim.pdf" target="_blank">here</a>.
 
 In my free time, I enjoy swimming🏊‍♂️, soccer⚽️, weight training🏋️, and many other activities.
 
