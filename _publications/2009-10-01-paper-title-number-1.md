@@ -2,7 +2,7 @@
 title: "Recurrent Neural Network-Based Semantic Variational Autoencoder for Sequence to Sequence Learning,"
 collection: publications
 permalink: /publication/2019-jang-recurrent
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Information Sciences, Volume 490. 59-73 (SCI)'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0020025519302786?via%3Dihub'
