@@ -22,7 +22,7 @@ NLP & Machine LEarning Engineer @ Data Machine Intelligence Group <br>
 ## Education
 <!-- <span style="font-style:Raleway; font-weight:700; font-size:large">Education</span> -->
 
-**University of Oxford University**, Oxford, U.K <span style="float:right">Oct. 2020 - Present</span> <br>
+**University of Oxford**, Oxford, U.K <span style="float:right">Oct. 2020 - Present</span> <br>
 D.Phil in Computer Science <br>
 
 **Korea University**, Seoul, Korea <span style="float:right">Mar. 2017 - Feb. 2019</span> <br>
