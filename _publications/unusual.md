@@ -9,4 +9,6 @@ venue: 'Experts Systems with Applications, Volume 144, 113111 (SCIE)'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 Seungwan Seo, Deokseong Seo, **Myeongjun Jang**, Jaeyun Jung and Pilsung Kang. 
+
 [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0957417419308280?via%3Dihub)
+
