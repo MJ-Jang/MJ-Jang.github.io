@@ -2,7 +2,7 @@
 title: "Learning-free Unsupervised Extractive Summarization Model"
 collection: publications
 permalink: /publication/2021-jang-learning
-excerpt: '**Myeongjun Jang** and Pilsung Kang'
+excerpt: '**Myeongjun Jang** and Pilsung Kang.'
 date: 2021-10-01
 venue: 'IEEE Access, Volume 9. 14358-14368'
 paperurl: 'https://ieeexplore.ieee.org/document/9321308'
