@@ -1,5 +1,5 @@
 ---
-title: "Text Mining Course for Data Analysts"
+title: "Text Mining for Data Analysts Course"
 collection: teaching
 type: "Workplace training course"
 permalink: /teaching/2018-spring-teaching-1
