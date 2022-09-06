@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Course for Engineers"
+title: "Machine Learning for Engineers Course"
 collection: teaching
 type: "Workplace training course"
 permalink: /teaching/2017-fall-teaching-1
