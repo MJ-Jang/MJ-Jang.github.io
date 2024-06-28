@@ -2,7 +2,6 @@
 title: "Consistency Analysis of ChatGPT"
 collection: publications
 permalink: "https://aclanthology.org/2023.emnlp-main.991/"
-#permalink: /publication/2023-jang-chatgpt
 excerpt: '**Myeongjun Erik Jang** and Thomas Lukasiewicz.'
 date: 2023-12-01
 venue: 'In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Singapore'
